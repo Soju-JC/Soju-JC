@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently, I am an undergraduate student majoring in Statistics at the Federal University of Espírito Santo (UFES).<br>🤝 I am naturally curious, always seeking to understand how things work and how they can be improved. I love challenges and approach problem-solving with patience and persistence. Despite being introverted, I feel comfortable communicating and collaborating with others to achieve common goals.<br>⚡ In my free time, I enjoy indulging in my hobbies of watching anime and reading manga.
+🔭 Currently, I am an undergraduate student majoring in Statistics at the Federal University of Espírito Santo (UFES) in Brazil.<br>🤝 I am naturally curious, always seeking to understand how things work and how they can be improved. I love challenges and approach problem-solving with patience and persistence. Despite being introverted, I feel comfortable communicating and collaborating with others to achieve common goals.<br>⚡ In my free time, I enjoy indulging in my hobbies of watching anime and reading manga.
 
 
 ## 🌐 Socials:
