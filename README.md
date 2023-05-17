@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! meu nome é José Carlos Soares Junior.<br><br>Como estudante de graduação em Estatística na Universidade Federal do Espírito Santo, adquiri uma vasta experiência em manipulação, interpretação e modelagem de vários tipos de dados, incluindo dados de saúde pública para populações maternas no Brasil. Em particular, trabalhei com dados de séries temporais, construindo uma base teórica e prática sólida em análise de séries temporais.<br><br>Sou uma pessoa naturalmente curiosa, sempre buscando entender como as coisas funcionam e como podem ser melhoradas. Adoro desafios e abordo a resolução de problemas com paciência e persistência. Apesar de ser introvertido, sinto-me à vontade para comunicar e colaborar com outras pessoas para alcançar objetivos comuns.<br><br>No meu tempo livre, gosto de me dedicar aos meus passatempos de assistir anime e ler mangá. Tenho uma sólida experiência em linguagem de programação R e estou constantemente melhorando minhas habilidades em Python.<br><br>No geral, sou uma pessoa detalhista com paixão pela análise de dados, com habilidades de coleta, manipulação, modelagem e interpretação de conjuntos de dados. Estou sempre procurando maneiras de aprimorar minhas habilidades como profissional e como pessoa.
+🔭 Currently, I am an undergraduate student majoring in Statistics at the Federal University of Espírito Santo (UFES).<br>🤝 I am naturally curious, always seeking to understand how things work and how they can be improved. I love challenges and approach problem-solving with patience and persistence. Despite being introverted, I feel comfortable communicating and collaborating with others to achieve common goals.<br>⚡ In my free time, I enjoy indulging in my hobbies of watching anime and reading manga.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Olá! meu nome é José Carlos Soares Junior.<br><br>Como estudante de graduaç�
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soju-JC&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soju-JC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
