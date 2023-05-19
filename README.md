@@ -21,13 +21,19 @@
   <div>
   <p align="center">
   <a href="https://github.com/Soju-JC">
-  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Soju-JC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img height="240em" src="https://github-contributor-stats.vercel.app/api?username=Soju-JC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
   </a>
   </p>
 </div>
    
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=2)
+ ## 🏆 GitHub Trophies 
+ <div>
+  <p align="center">
+  <a href="https://github.com/Soju-JC">
+  <img height="240em" src="https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=2"/>
+  </a>
+  </p>
+</div>
  
 ---
 [![](https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6)](https://visitcount.itsvg.in)
