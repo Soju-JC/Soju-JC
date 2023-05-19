@@ -9,15 +9,15 @@
   <div class="center">
   <p align="center">
   <a href="https://github.com/Soju-JC">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soju-JC&theme=midnight-purple&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soju-JC&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soju-JC&theme=midnight-purple&hide_border=false"/>
   </a>
   </p>
 </div>
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6)
 ![Snake animation](https://github.com/Soju-JC/Soju-JC/blob/main/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
