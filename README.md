@@ -36,6 +36,13 @@
 </div>
  
 ---
+ <div>
+  <p align="center">
+  <a href="https://github.com/Soju-JC">
+  <img height="240em" src="https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6)](https://visitcount.itsvg.in)"/>
+  </a>
+  </p>
+</div>
 [![](https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
