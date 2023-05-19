@@ -17,7 +17,7 @@
 </div>
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=2)
 ![Snake animation](https://github.com/Soju-JC/Soju-JC/blob/main/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
