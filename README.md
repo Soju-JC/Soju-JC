@@ -15,14 +15,20 @@
   </a>
   </p>
 </div>
- 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=2)
-![Snake animation](https://github.com/Soju-JC/Soju-JC/blob/main/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Soju-JC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+![Snake animation](https://github.com/Soju-JC/Soju-JC/blob/main/github-contribution-grid-snake.svg)
+  <div>
+  <p align="center">
+  <a href="https://github.com/Soju-JC">
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Soju-JC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  </a>
+  </p>
+</div>
+   
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=2)
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6)](https://visitcount.itsvg.in)
 
