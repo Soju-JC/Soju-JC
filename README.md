@@ -38,6 +38,5 @@
 ---
 <p align="center">
   [![](https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6)](https://visitcount.itsvg.in)
-</div>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
