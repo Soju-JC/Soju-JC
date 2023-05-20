@@ -27,13 +27,11 @@
 </div>
    
  ## 🏆 GitHub Trophies 
- <div>
   <p align="center">
   <a href="https://github.com/Soju-JC">
   <img height="240em" src="https://github-profile-trophy.vercel.app/?username=Soju-JC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=2"/>
   </a>
   </p>
-</div>
  
 ---
  <p align="center">
