@@ -38,7 +38,7 @@
 ---
  <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img height="50em" src="https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6" alt="Visit Count" />   
+    <img height="25em" src="https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6" alt="Visit Count" />   
   </a>
  </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
