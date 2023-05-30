@@ -23,13 +23,13 @@
    </a>
   </p>
 
-<p align="center">
 <table>
+<p align="center">
     <tr>
         <td><img height="200em" src="https://readmestats.999857.xyz/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/></td>
-    </tr>   
+    </tr>
+</p>  
 </table>
-</p>
 
 <center>
 <table>
