@@ -36,7 +36,7 @@
    </a>
   </p>
  <p align="right"> 
- <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="right">
+ <img src = "Add-ons/AS.gif" width = "360px" height="auto" align="right">
  </p>
   </div>
   
