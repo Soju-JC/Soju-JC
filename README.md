@@ -12,6 +12,12 @@
   <li> 📫 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).</li>
 </ul>
 
+<div align="center">
+  <a href="https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+</div>
+
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
