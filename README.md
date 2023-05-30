@@ -28,7 +28,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-# 📊 GitHub Stats:
+<h1 align="center"> ~📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 📊~</h1>
+
  <div align="center">
  <p align="center">
    <a href="https://github.com/Soju-JC">
