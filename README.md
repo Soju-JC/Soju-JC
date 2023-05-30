@@ -23,7 +23,6 @@
    </a>
   </p>
 
-<center>
 <p align="center">
 <table>
     <tr>
@@ -31,7 +30,6 @@
     </tr>   
 </table>
 </p>
-</center> 
 
 <center>
 <table>
