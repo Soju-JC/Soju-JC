@@ -4,12 +4,12 @@
 
 # 💫 About Me:
 <ul>
-  <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.
-  <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b></li>
-  <li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b></li>
+  <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
+  <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b>.</li>
+  <li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b>.</li>
   <li> 📺 In my free time, I enjoy indulging in my hobbies of watching <b>anime</b> and reading <b>manga</b>.</li> 
     
-  <li> 📫 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).
+  <li> 📫 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).</li>
 </ul>
 
 # 💻 Tech Stack:
