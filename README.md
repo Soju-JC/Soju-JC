@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
+  <img width="720" height="500" src=Add-ons/FSN.gif>
 </div>
 
 # 💫 About Me:
