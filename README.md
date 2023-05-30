@@ -2,7 +2,7 @@
   <img width="720" height="250" src=Add-ons/FSN.gif>
 </div>
 
-<h1 align="center"> ~ 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔 ~:</h1>
+<h1 align="center"> ~ 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔 ~</h1>
 <ul>
   <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
   <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b>.</li>
@@ -14,7 +14,7 @@
   </a>
 </ul>
 
-# 💻 Tech Stack:
+<h1 align="center"> ~💻 𝓣𝓔𝓒𝓗 𝓢𝓣𝓐𝓒𝓚 💻~</h1>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
