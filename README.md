@@ -1,9 +1,15 @@
-# 💫 About Me:
 <div align="center">
   <img width="720" height="auto" src=Add-ons/FSN.gif>
 </div>
 
-🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation. I am constantly seeking ways to enhance my skills as a professional and as an individual.<br><br>⚡ In my free time, I enjoy indulging in my hobbies of watching anime and reading manga.<br><br>🌐 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).
+# 💫 About Me:
+<ul>
+  <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.
+  <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b></li>
+  <li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b></li>
+  <li> 📺 In my free time, I enjoy indulging in my hobbies of watching <b>anime</b> and reading <b>manga</b>. 
+  <li> 📫 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).
+</ul>
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
