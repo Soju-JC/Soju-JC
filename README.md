@@ -34,7 +34,16 @@
     <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=Soju-JC&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/>
    </a>
   </p>
+ <center>
   
+<table>
+    <tr>
+        <td><img height="180em" src="https://readmestats.999857.xyz/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/></td>
+        <td><img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=Soju-JC&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/></td>
+    </tr>   
+</table>
+</center> 
+
 ### 🔝 Top Contributed Repo
 ![Snake animation](https://github.com/Soju-JC/Soju-JC/blob/main/github-contribution-grid-snake.svg)
   <p align="center">
