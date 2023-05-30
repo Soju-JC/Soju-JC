@@ -24,11 +24,13 @@
   </p>
 
 <center>
+<p align="center">
 <table>
     <tr>
         <td><img height="200em" src="https://readmestats.999857.xyz/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/></td>
     </tr>   
 </table>
+</p>
 </center> 
 
 <center>
