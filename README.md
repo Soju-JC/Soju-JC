@@ -1,6 +1,8 @@
 # 💫 About Me:
 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation. I am constantly seeking ways to enhance my skills as a professional and as an individual.<br><br>⚡ In my free time, I enjoy indulging in my hobbies of watching anime and reading manga.<br><br>🌐 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).
 
+<iframe src="https://giphy.com/embed/OVGHNjjoC7No4" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hand-black-lagoon-OVGHNjjoC7No4">via GIPHY</a></p>
+
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
