@@ -28,6 +28,7 @@
     <tr>
         <td><img height="200em" src="https://readmestats.999857.xyz/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/></td>
         <td><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soju-JC&theme=midnight-purple&hide_border=false"/></td>
+        <td><img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=Soju-JC&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/></td>
     </tr>   
 </table>
 </center> 
