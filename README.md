@@ -1,6 +1,4 @@
 <div align="center">
-  <img width="720" height="250" src=Add-ons/FSN.gif>
-  <img width="720" height="250" src=Add-ons/cyber.gif>
   <img width="720" height="250" src=Add-ons/cyber2.gif>
 </div>
 
