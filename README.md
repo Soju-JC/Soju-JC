@@ -2,7 +2,7 @@
   <img width="720" height="250" src=Add-ons/FSN.gif>
 </div>
 
-# 💫 About Me:
+<h1 align="center"> ~ 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔 ~:</h1>
 <ul>
   <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
   <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b>.</li>
