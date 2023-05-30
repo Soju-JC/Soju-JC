@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="720" height="400" src=Add-ons/cyber3.gif>
+  <img width="720" height="350" src=Add-ons/cyber3.gif>
 </div>
 
 <h1 align="center"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
