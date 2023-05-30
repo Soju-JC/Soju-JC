@@ -28,7 +28,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 # 📊 GitHub Stats:
- 
+ <div align="center">
  <p align="left">
    <a href="https://github.com/Soju-JC">
     <img height="180em" src="https://readmestats.999857.xyz/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
@@ -36,7 +36,8 @@
    </a>
   </p>
  <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="right">
-
+  </div>
+  
 ### 🔝 Top Contributed Repo
 ![Snake animation](https://github.com/Soju-JC/Soju-JC/blob/main/github-contribution-grid-snake.svg)
   <p align="center">
