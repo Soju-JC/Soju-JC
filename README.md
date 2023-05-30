@@ -2,6 +2,7 @@
   <div align="center">
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
+  
 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation. I am constantly seeking ways to enhance my skills as a professional and as an individual.<br><br>⚡ In my free time, I enjoy indulging in my hobbies of watching anime and reading manga.<br><br>🌐 For more information, you can visit my profile on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/).
 
 # 💻 Tech Stack:
