@@ -1,6 +1,6 @@
 <div align="center">
   <img width="720" height="250" src=Add-ons/FSN.gif>
-  <iframe src="https://giphy.com/embed/dUQL2bKltOU7cO9Maw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/copa90-football-sport-soccer-dUQL2bKltOU7cO9Maw">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:136%;position:relative;"><iframe src="https://giphy.com/embed/Yt1E299Lkvg3WzMkuH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Yt1E299Lkvg3WzMkuH">via GIPHY</a></p>
 </div>
 
 <h1 align="center"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
