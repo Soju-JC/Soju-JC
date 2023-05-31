@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="720" height="250" src=Add-ons/sakura.gif>
+  <img width="720" height="250" src=Add-ons/pikachu.gif>
 </div>
 
 <h1 align="center"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
