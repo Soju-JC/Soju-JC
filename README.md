@@ -34,7 +34,7 @@
  <p align="center">
    <a href="https://github.com/Soju-JC">
     <img height="190em" src="https://readmestats.999857.xyz/api?username=Soju-JC&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Soju-JC&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Soju-JC&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
     <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=Soju-JC&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7"/>
    </a>
   </p>
