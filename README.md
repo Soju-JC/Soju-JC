@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/anime1026">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Full-Stack%20Software%20Architecture;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=ffffff&vCenter=true&size=45%22">
+  </a>
+</div>
+
+<div align="center">
   <img width="720" height="270" src=Add-ons/gojo2.gif>
 </div>
 
