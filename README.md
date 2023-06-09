@@ -1,6 +1,8 @@
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232400FF&size=30&multiline=true&width=999&height=90&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-</p>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%232400FF&size=30&multiline=true&width=999&height=90&lines=Welcome+to+my+profile" />
+  </a>
+</div>
 
 <div align="center">
   <img width="720" height="270" src=Add-ons/gojo2.gif>
