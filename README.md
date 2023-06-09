@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/anime1026">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;+I+am+a+statistics+student;+Constantly+improving+my+skills&font=Pacifico&center=true&width=650&height=120&color=ffffff&vCenter=true&size=45%27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;+I+am+a+statistics+student;+Constantly+improving+my+skills&font=Sail&center=true&width=650&height=120&color=ffffff&vCenter=true&size=45%27">
   </a>
 </div>
 
