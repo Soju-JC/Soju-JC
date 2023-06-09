@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;+I+am+a+statistics+student;+Constantly+improving+my+skills&font=Sail&center=true&width=650&height=120&color=7900ff&vCenter=true&size=45%27">
   </a>
 </div>
-
+<h1 align="center">
 <h1 align="center"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
 <ul>
   <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
