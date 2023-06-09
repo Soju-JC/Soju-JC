@@ -1,7 +1,7 @@
 <h1 align="center">
 <div align="center">
   <a href="https://github.com/Soju-JC">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🦇+Welcome+to+my+profile+🦇;+🦇+I+am+a+statistics+student+🦇;+🦇+Constantly+improving+my+skills+🦇&font=Sail&center=true&width=650&height=120&color=7900ff&vCenter=true&size=47%29">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🦇+Welcome+to+my+profile+🦇;+🦇+I+am+a+statistics+student+🦇;+🦇+Constantly+improving+my+skills+🦇&font=Sail&center=true&width=650&height=120&color=7900ff&vCenter=true&size=42%29">
   </a>
 </div>
 <h1 align="center">
