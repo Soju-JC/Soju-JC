@@ -4,12 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;+I+am+a+statistics+student;+Constantly+improving+my+skills&font=Sail&center=true&width=650&height=120&color=7900ff&vCenter=true&size=45%27">
   </a>
 </div>
-  
-<div align="center">
-  <a href="https://github.com/Soju-JC">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=<span>&#x1F530;</span>Welcome+to+my+profile;<span>&#x1F530;</span>+I+am+a+statistics+student;<span>&#x1F530;</span>Constantly+improving+my+skills<span>&#x1F530;</span>&font=Sail&center=true&width=650&height=120&color=7900ff&vCenter=true&size=45%27">
-  </a>
-</div>
 <h1 align="center">
 <div align="center">
   <img width="720" height="270" src=Add-ons/gojo2.gif>
