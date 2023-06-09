@@ -1,7 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%232400FF&size=30&multiline=true&width=999&height=90&lines=Welcome+to+my+profile" />
-  </a>
+<div align="center">
+  <a href="https://github.com/anime1026"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Full-Stack%20Software%20Architecture;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </div>
 
 <div align="center">
