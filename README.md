@@ -63,5 +63,7 @@
   </p>
  
 ---
-[](https://komarev.com/ghpvc/?username=Soju-JC&color=blueviolet&style=for-the-badge) 
+<p align="center">
+<a href="https://gist.github.com/Soju-JC"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Soju-JC :: Visitor's Count" /></a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
