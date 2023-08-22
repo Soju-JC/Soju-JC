@@ -64,8 +64,11 @@
  
 ---
  <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img height="40em" src="https://visitcount.itsvg.in/api?id=Soju-JC&icon=5&color=6" alt="Visit Count" />   
-  </a>
+<div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Soju-JC
+}/count.svg" /></p> 
+    <br>
+    </div>
  </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
