@@ -63,12 +63,10 @@
   </p>
  
 ---
- <p align="center">
 <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Soju-JC
 }/count.svg" /></p> 
     <br>
-    </div>
- </p>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
