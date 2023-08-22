@@ -63,7 +63,5 @@
   </p>
  
 ---
-<div align="center">
-    [](https://komarev.com/ghpvc/?username=Soju-JC&color=blueviolet&style=for-the-badge) 
-</div>
+[](https://komarev.com/ghpvc/?username=Soju-JC&color=blueviolet&style=for-the-badge) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
