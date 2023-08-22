@@ -64,8 +64,6 @@
  
 ---
 <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
     [](https://komarev.com/ghpvc/?username=Soju-JC&color=blueviolet&style=for-the-badge) 
-    <br>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
