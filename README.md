@@ -55,13 +55,13 @@
    </a>
   </p>
   
- <h1 align="center"> ~🔝 𝓣𝓸𝓹 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮𝓭 𝓡𝓮𝓹𝓸 🔝~</h1>
+ <!--<h1 align="center"> ~🔝 𝓣𝓸𝓹 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮𝓭 𝓡𝓮𝓹𝓸 🔝~</h1>
  
   <p align="center">
    <a href="https://github.com/Soju-JC">
     <img height="240em" src="https://github-contributor-stats.vercel.app/api?username=Soju-JC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
    </a>
-  </p>
+  </p> -->
  
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
