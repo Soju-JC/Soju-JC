@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🦇+Welcome+to+my+profile+🦇;+🦇+I+am+a+statistics+student+🦇;+🦇+Constantly+improving+my+skills+🦇&font=Sail&center=true&width=650&height=120&color=7900ff&vCenter=true&size=42%29">
   </a>
 </div>
-<h1 align="center">
+<!--<h1 align="center">
 <div align="center">
   <img width="720" height="270" src=Add-ons/gojo2.gif>
-</div>
+</div> -->
   
 <h1 align="center" style="color: 7900ff"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
 <img  align="right" width="290" height="190" src=Add-ons/cyber3.gif>
