@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">
 <div align="center">
-  <img width="720" height="270" src=Add-ons/gojo2.gif>
+  <img width="720" height="270" src=Add-ons/cyber3.gif>
 </div>
 <h1 align="center" style="color: 7900ff"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
 <ul>
