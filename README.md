@@ -11,8 +11,8 @@
 <h1 align="center" style="color: 7900ff"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
 <ul>
   <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
-  <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b>.</li>
-  <li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b>.</li>
+  <li> 🔭 I’m currently learning <b>Python</b>, <b>SQL</b> and <b>Elasticsearch</b>.</li>
+  <!--<li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b>.</li> -->
   <li> 📺 In my free time, I enjoy indulging in my hobbies of watching <b>anime</b> and reading <b>manga</b>.</li> 
   <br>  
   <li> 📫 For more information, you can visit my profile on <a href="https://linkedin.com/in/josé-carlos-soares-junior-2375a714b/">
