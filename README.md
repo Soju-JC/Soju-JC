@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">
 <div align="center">
-  <img width="420" height="250" src=Add-ons/cyber3.gif>
+  <img width="720" height="270" src=Add-ons/fate.gif>
 </div>
 <h1 align="center" style="color: 7900ff"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
 <ul>
@@ -22,7 +22,7 @@
 
 <h1 align="center"> ~💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻~</h1>
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="right">
   <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="r" />
@@ -88,7 +88,10 @@
 </table>
 <br><br>
 
-
+<h1 align="center">
+<div align="left">
+  <img width="420" height="250" src=Add-ons/cyber3.gif>
+</div>
 </div>
 
 <h1 align="center"> ~📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 📊~</h1>
