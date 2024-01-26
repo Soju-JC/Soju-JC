@@ -9,7 +9,7 @@
   <img width="720" height="270" src=Add-ons/fate.gif>
 </div>
 <h1 align="center" style="color: 7900ff"> ~💫 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 💫~</h1>
-<ul>
+<ul align="left">
   <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
   <li> 🔭 I’m currently learning <b>Python</b>, <b>SQL</b> and <b>Elasticsearch</b>.</li>
   <!--<li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b>.</li> -->
@@ -19,10 +19,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
 </ul>
+<div align="right">
+  <img width="250" height="225" src=Add-ons/cyber3.gif>
+</div>
+</div>
 
 <h1 align="center"> ~💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻~</h1>
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="right">
+<table align="center">
   <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="r" />
@@ -87,12 +91,6 @@
   </tr>
 </table>
 <br><br>
-
-<h1 align="center">
-<div align="left">
-  <img width="420" height="250" src=Add-ons/cyber3.gif>
-</div>
-</div>
 
 <h1 align="center"> ~📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 📊~</h1>
 
