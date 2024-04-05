@@ -13,7 +13,7 @@
 <img  align="right" width="290" height="190" src=Add-ons/cyber3.gif>
 <ul align="left">
   <li> 🤝 Overall, I am a detail-oriented person with a passion for data analysis, possessing skills in data collection, manipulation, modeling, and interpretation.</li>
-  <li> 🔭 I’m currently learning <b>Python</b>, <b>SQL</b>.</li>
+  <li> 🔭 I’m currently learning <b>Python</b> and <b>SQL</b>.</li>
   <!--<li> 🔭 I’m currently completing my <b>undergraduate degree in statistics</b>.</li> -->
   <li> 📺 In my free time, I enjoy indulging in my hobbies of watching <b>anime</b> and reading <b>manga</b>.</li> 
   <br>  
